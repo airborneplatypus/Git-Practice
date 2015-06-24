@@ -5,3 +5,5 @@ My interest in programming first really started when I was looking to mod Civili
 
 Programming Background:
 I took one year of basic web design classes in high school.
+After switching to using ArchLinux as my primary OS, I wrote a bash script that allows me to turn on and off 
+individual CPUs in addition to controlling their frequency.
