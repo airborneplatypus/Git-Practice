@@ -4,6 +4,7 @@ While I am now out of practice, in highschool I was on a nationally ranked air r
 My interest in programming first really started when I was looking to mod Civilization IV.
 Prior to being computer science, I was mechanical engineering.
 I want to be a Cyber Operations Officer.
+I am a computer systems focus.
 
 Programming Background:
 I took one year of basic web design classes in high school.
